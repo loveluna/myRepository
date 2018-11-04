@@ -6,7 +6,7 @@ public class TestJavaClass {
 	System.out.println("æºæº");
 	System.out.println("æºæº");
 	System.out.println("æºæº11");
-
+	System.out.println("æºæº22");
 
 
 
